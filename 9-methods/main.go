@@ -30,4 +30,7 @@ func main() {
 
 	person = Person{Name: "Antonio", Age: 60}
 	fmt.Println(person.String())
+
+	person = Person{Name: "Antonio", Age: 60}
+	fmt.Println(person.String())
 }
